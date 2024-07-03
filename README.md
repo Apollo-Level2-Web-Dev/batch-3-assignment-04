@@ -66,6 +66,8 @@
 - 50 Marks: June 22, 2024, 11.59 PM (7 days) ⌛
 - After June 22, 30 Marks Deadline 📅
 
+*Note: <span style="color:red">The deadlines are final and will not be extended.</span>*
+
 ## 🚫 **Important Note:**
 
 Plagiarism will not be tolerated. Ensure that the code you submit is your work. Any instances of plagiarism will result in 0 Marks ❌.
