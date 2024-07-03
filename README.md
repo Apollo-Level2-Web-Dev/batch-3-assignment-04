@@ -30,7 +30,7 @@
 - **Consistent Code Style**: Maintain a consistent coding style throughout the project. Follow best practices and coding standards for the technologies you are using 📏.
 - **Error Handling**: Implement proper error handling for both frontend and backend to ensure a smooth user experience 🚀.
 - **Responsive Design**: Ensure that your application is responsive and works well on different screen sizes and devices 📱💻.
-- **Documentation**: Provide clear and comprehensive documentation. Include instructions for setting up and running the project, as well as any other relevant information 📚.
+- **Documentation**: Ensure thorough documentation is available. This should encompass detailed instructions for project setup and execution, alongside pertinent details 📚. **For a structured guide, refer to the [project README file template](./Project%20README%20Template.md)**.
 - **Version Control**: Use version control (e.g., Git) effectively. Commit your changes regularly with meaningful commit messages 💾.
 - **Deployment**: Ensure that your application is deployed and accessible via the provided live deployment links. Test the deployment to ensure it works as expected 🌍.
 
@@ -52,12 +52,12 @@
 
 ## Assignment Number based on the Last Digit of PH Student ID:
 
-| The last Digit of PH Student ID | Assignment Number (Design No)  |
-| ------------------------------- | ------------------------------ |
-| 0, 1                            | [SET-1](./1-car-washing-system.md) 🚗 |
-| 2, 3                            | [SET-2](./2-meeting-room-booking-system.md) 🏢 |
-| 4, 5                            | [SET-3](./3-car-rental-reservation-system.md) 🚙 |
-| 6, 7                            | [SET-4](./4-bike-rental-service.md) 🚲 |
+| The last Digit of PH Student ID | Assignment Number (Design No)                      |
+| ------------------------------- | -------------------------------------------------- |
+| 0, 1                            | [SET-1](./1-car-washing-system.md) 🚗               |
+| 2, 3                            | [SET-2](./2-meeting-room-booking-system.md) 🏢      |
+| 4, 5                            | [SET-3](./3-car-rental-reservation-system.md) 🚙    |
+| 6, 7                            | [SET-4](./4-bike-rental-service.md) 🚲              |
 | 8, 9                            | [SET-5](./5-sports-facility-booking-platform.md) 🏟️ |
 
 ### ⏰ **Deadline:**
@@ -75,3 +75,6 @@ Plagiarism will not be tolerated. Ensure that the code you submit is your work. 
 ---
 
 By following these instructions, you'll be well-equipped to complete Assignment 4 successfully. Good luck! 🍀
+
+
+
