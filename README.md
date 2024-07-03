@@ -66,7 +66,7 @@
 - 50 Marks: June 22, 2024, 11.59 PM (7 days) ⌛
 - After June 22, 30 Marks Deadline 📅
 
-*Note: <span style="color:red">The deadlines are final and will not be extended.</span>*
+***Note: The deadlines are final and will not be extended.***
 
 ## 🚫 **Important Note:**
 

@@ -1,8 +1,9 @@
 
 <div align="center">
   <h1>Comprehensive Project README Template</h1>
+  <p>⚠️ This is an example template. Following it is optional but recommended.</p>
 </div>
-$${\color{red} {\text{:warning: This is an example template. Following it is optional but recommended.}}}$$
+
 ---
 
 # Project Name
