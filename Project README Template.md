@@ -1,12 +1,8 @@
-<div style="border: 2px solid red; color: red; border-radius: 5px; text-align: center;">
-    <h3>Note: This is an example template. Following it is optional but recommended.</h3>
-</div>
 
----
 <div align="center">
   <h1>Comprehensive Project README Template</h1>
 </div>
-
+$${\color{red} {\text{:warning: This is an example template. Following it is optional but recommended.}}}$$
 ---
 
 # Project Name
