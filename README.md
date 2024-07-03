@@ -1,5 +1,8 @@
 ![Assignment-4](https://i.ibb.co/1RJYL39/assignment-4.png)
 
+Welcome to Assignment 4, where you will have the opportunity to showcase your skills in web development by building a dynamic web application. This assignment will require you to integrate various technologies, including React, Redux, Node.js, Express.js, Mongoose, and TypeScript, to create a comprehensive and functional project.
+
+
 ## 🛠️ Technology You Can Use
 
 - **Frontend Development:**
@@ -41,7 +44,7 @@
 - Submit a well-documented codebase with clear comments 🖋️.
 - Make sure to add a README file that explains how to set up and use the application. In the README, include details like the project name, live URL, features, technology used, and other important information. Try to make it look professional by doing some research and making it appealing 📄.
 
-## What You Need to Provide:
+## 📤 What You Need to Provide:
 
 1. Live Deployment Link (Server and Client) 🌐
    
@@ -50,15 +53,17 @@
 3. Project Overview Video (A brief video providing an overview of the project) 🎥
 
 
-## Assignment Number based on the Last Digit of PH Student ID:
+## 🔢 Assignment Number Based on the Last Digit of PH Student ID
 
-| The last Digit of PH Student ID | Assignment Number (Design No)                      |
-| ------------------------------- | -------------------------------------------------- |
-| 0, 1                            | [SET-1](./1-car-washing-system.md) 🚗               |
-| 2, 3                            | [SET-2](./2-meeting-room-booking-system.md) 🏢      |
-| 4, 5                            | [SET-3](./3-car-rental-reservation-system.md) 🚙    |
-| 6, 7                            | [SET-4](./4-bike-rental-service.md) 🚲              |
-| 8, 9                            | [SET-5](./5-sports-facility-booking-platform.md) 🏟️ |
+| Last Digit of PH Student ID | Assignment Number (Design No)                                                                                        |
+| --------------------------- | -------------------------------------------------------------------------------------------------------------------- |
+| 0, 1                        | [SET-1: Fitness Equipment and Accessories Selling Website](./1-fitness equipment and accoriess selling website.md) 🚗 |
+| 2, 3                        | [SET-2: Mechanical Keyboard Shop](./2-mechanical keyboard shop.md) 🏢                                                 |
+| 4, 5                        | [SET-3: Campers Shop](./3-campers shop) 🚙                                                                            |
+| 6, 7                        | [SET-4: Sporting Goods](./4-sporting goods.md) 🚲                                                                     |
+| 8, 9                        | [SET-5: Online Nursery](./5-online nursery.md) 🏟️                                                                     |
+
+
 
 ### ⏰ **Deadline:**
 
@@ -75,6 +80,3 @@ Plagiarism will not be tolerated. Ensure that the code you submit is your work. 
 ---
 
 By following these instructions, you'll be well-equipped to complete Assignment 4 successfully. Good luck! 🍀
-
-
-
