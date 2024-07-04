@@ -46,7 +46,7 @@ This website will have the following core pages:
 
 ### 3\. **About Us**
 
-*       *   Information about the company
+    *   Information about the company
     *   Mission and vision statements
     *   Contact information
     *   Our Team Section
