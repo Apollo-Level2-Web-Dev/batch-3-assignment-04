@@ -33,7 +33,7 @@ Welcome to Assignment 4, where you will have the opportunity to showcase your sk
 - **Consistent Code Style**: Maintain a consistent coding style throughout the project. Follow best practices and coding standards for the technologies you are using 📏.
 - **Error Handling**: Implement proper error handling for both frontend and backend to ensure a smooth user experience 🚀.
 - **Responsive Design**: Ensure that your application is responsive and works well on different screen sizes and devices 📱💻.
-- **Documentation**: Ensure thorough documentation is available. This should encompass detailed instructions for project setup and execution, alongside pertinent details 📚. **For a structured guide, refer to the [project README file template](./Project%20README%20Template.md)**.
+- **Documentation**: Ensure thorough documentation is available. This should encompass detailed instructions for project setup and execution, alongside pertinent details 📚. **For a structured guide, refer to the [project README file template](./Project%20README%20Template.md) . You have to follow the template**.  
 - **Version Control**: Use version control (e.g., Git) effectively. Commit your changes regularly with meaningful commit messages 💾.
 - **Deployment**: Ensure that your application is deployed and accessible via the provided live deployment links. Test the deployment to ensure it works as expected 🌍.
 
