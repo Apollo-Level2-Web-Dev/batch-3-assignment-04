@@ -46,21 +46,21 @@ This website will have the following core pages:
 
 ### 3\. **About Us**
 
-    *   Information about the company
-    *   Mission and vision statements
-    *   Contact information
-    *   Our Team Section
-    *   Our Store Location Information
+  *   Information about the company
+  *   Mission and vision statements
+  *   Contact information
+  *   Our Team Section
+  *   Our Store Location Information
 
   
 
 ### 4\. **All Products**
 
-*       *   Display all available products.
-    *   Search functionality for users to find specific products based on **name**
-    *   Filter functionality for users to find specific products based on **sport category, price, brand, rating** etc.
-    *   Sorting options (ascending and descending by price).
-    *   "Clear filter" button to reset all filters.
+  * Display all available products.
+  * Search functionality for users to find specific products based on **name**
+  * Filter functionality for users to find specific products based on **sport category, price, brand, rating** etc.
+  * Sorting options (ascending and descending by price).
+  * "Clear filter" button to reset all filters.
 
   
 
