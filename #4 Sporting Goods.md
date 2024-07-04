@@ -40,7 +40,7 @@ This website will have the following core pages:
 
 **Note:**
 
-*       *       *   **`[optional]`** You can use [EmailJS](https://www.emailjs.com/) or **NodeMailer** to make the contact form functional.
+**`[optional]`** You can use [EmailJS](https://www.emailjs.com/) or **NodeMailer** to make the contact form functional.
 
   
 
