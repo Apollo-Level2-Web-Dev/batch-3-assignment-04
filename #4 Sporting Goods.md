@@ -31,8 +31,8 @@ This website will have the following core pages:
 
 ### 2. **Homepage**
 
-*       *   **Hero Section** - Must use a carousel with discount information
-    *   **Featured section** - This section will feature latest products in card view. Each card will have product name, category, stock quantity, brand, rating using a third party package [react-rating](https://www.npmjs.com/package/react-rating), product description, price, image and View Details button. On clicking View Details, the user will be redirected to the Single Product page.
+  * **Hero Section** - Must use a carousel with discount information
+  * **Featured section** - This section will feature latest products in card view. Each card will have product name, category, stock quantity, brand, rating using a third party package [react-rating](https://www.npmjs.com/package/react-rating), product description, price, image and View Details button. On clicking View Details, the user will be redirected to the Single Product page.
     *   **Category** \- A section will display the categories of sporting goods. If a user clicks on a category, they will be redirected to the 'All Products' page, showing only the products based on that category.
     *   **Contact Us Section -** This section will have a form with relevant fields.
 
