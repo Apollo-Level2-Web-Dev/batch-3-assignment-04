@@ -25,11 +25,11 @@ Welcome to Assignment 4, where you will have the opportunity to showcase your sk
 
 ## 📝 **Instructions:**
 
-- **Follow Assignment Requirements**: Ensure that your project meets all the specified requirements and features outlined in the assignment description ✅.
+- **Follow Assignment Requirements**: Ensure that your project meets all the specified requirements and features outlined in the assignment description ✅. **You can use any coding pattern in the backend.**
 - **Plagiarism Not Allowed**: Your submission must be your own work. Plagiarism will result in a score of 0 🚫.
 - **Meaningful Variable Names**: Use clear and descriptive variable names to improve code readability 📝.
 - **Code Commenting**: Add comments to explain the purpose of your code sections and important logic. This will help others (and yourself) understand your code better 💬.
-- **User Experience and Interface**: Prioritize a better user experience (UX) and user interface (UI). Make your application intuitive, easy to use, and visually appealing 🌟.
+- **User Experience and Interface**: Prioritize a better user experience (UX) and user interface (UI). Make your application intuitive, easy to use, and visually appealing 🌟. **The UI/UX section is worth 7 marks.**
 - **Consistent Code Style**: Maintain a consistent coding style throughout the project. Follow best practices and coding standards for the technologies you are using 📏.
 - **Error Handling**: Implement proper error handling for both frontend and backend to ensure a smooth user experience 🚀.
 - **Responsive Design**: Ensure that your application is responsive and works well on different screen sizes and devices 📱💻.
@@ -55,23 +55,23 @@ Welcome to Assignment 4, where you will have the opportunity to showcase your sk
 
 ## 🔢 Assignment Number Based on the Last Digit of PH Student ID
 
-| Last Digit of PH Student ID | Assignment Number (Design No)                                                                                        |
-| --------------------------- | -------------------------------------------------------------------------------------------------------------------- |
-| 0, 1                        | [SET-1: Fitness Equipment and Accessories Selling Website](./1-fitness equipment and accoriess selling website.md) 🚗 |
-| 2, 3                        | [SET-2: Mechanical Keyboard Shop](./2-mechanical keyboard shop.md) 🏢                                                 |
-| 4, 5                        | [SET-3: Campers Shop](./3-campers shop) 🚙                                                                            |
-| 6, 7                        | [SET-4: Sporting Goods](./4-sporting goods.md) 🚲                                                                     |
-| 8, 9                        | [SET-5: Online Nursery](./5-online nursery.md) 🏟️                                                                     |
+| Last Digit of PH Student ID | Assignment Number (Design No)                                                                 |
+| --------------------------- | --------------------------------------------------------------------------------------------- |
+| 0, 1                        | [SET-1: Fitness Equipment and Accessories](./#1%20Fitness%20Equipment%20and%20Accessories.md) |
+| 2, 3                        | [SET-2: Mechanical Keyboard Shop](./#2%20Mechanical%20Keyboard%20Shop.md)                     |
+| 4, 5                        | [SET-3: Campers Shop](./#3%20Campers%20Shop.md)                                               |
+| 6, 7                        | [SET-4: Sporting Goods](./#4%20Sporting%20Goods.md)                                           |
+| 8, 9                        | [SET-5: Online Nursery Website](./#5%20Online%20Nursery%20Website.md)                         |
 
 
 
 ### ⏰ **Deadline:**
 
-- 60 Marks: June 15, 2024, 11.59 PM (4 days) ⏳
-- 50 Marks: June 22, 2024, 11.59 PM (7 days) ⌛
-- After June 22, 30 Marks Deadline 📅
+- 60 Marks: July __, 2024, 11.59 PM ⏳
+- 50 Marks: July __, 2024, 11.59 PM ⌛
+- After July __, 30 Marks Deadline 📅
 
-<p style="color: red">***Note: The deadlines are final and will not be extended.***</p>
+***Note: The deadlines are final and will not be extended.***
 
 ## 🚫 **Important Note:**
 
