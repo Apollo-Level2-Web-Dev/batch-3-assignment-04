@@ -70,25 +70,25 @@ This website will have the following core pages:
 
 ### 5\. **Single Product**
 
-*       *   Detailed view of a single product.
-    *   Includes **product name, description, category, brand, stock quantity**, **rating using a third party package** [**react-rating**](https://www.npmjs.com/package/react-rating)**, product description, price, image** and **Add To Cart button**.
-    *   You can use [react-photo-view](https://github.com/MinJieLiu/react-photo-view) package to view the image of each product **\[optional\]**
-    *   **Add to Cart Button:** Allows adding the product to the cart.
+  * Detailed view of a single product.
+  * Includes **product name, description, category, brand, stock quantity**, **rating using a third party package** [**react-rating**](https://www.npmjs.com/package/react-rating)**, product description, price, image** and **Add To Cart button**.
+  * You can use [react-photo-view](https://github.com/MinJieLiu/react-photo-view) package to view the image of each product **\[optional\]**
+  * **Add to Cart Button:** Allows adding the product to the cart.
 
 **Note**
 
-*       *       *   Duplicate products cannot be added to the cart. If a product that is already in the cart is added again, only the quantity for that product will increase, up to the stock count of that product. When the quantity reaches the stock count, the "Add to Cart" button for that product will be disabled.
-        *   Give relevant information and ensure that the design is visually appealing and user-friendly.
+* Duplicate products cannot be added to the cart. If a product that is already in the cart is added again, only the quantity for that product will increase, up to the stock count of that product. When the quantity reaches the stock count, the "Add to Cart" button for that product will be disabled.
+* Give relevant information and ensure that the design is visually appealing and user-friendly.
 
   
 
 ### 6\. **Cart Page**
 
-*       *   Can be a page or a modal
-    *   View all products added to the cart.
-    *   Implement functionalities to increase/decrease quantity and to remove items from the cart for each products.
-    *   A section that will show the total price including 15% vat for the overall purchase.
-    *   **Proceed to checkout Button:** Allows the user to place an order.
+  * Can be a page or a modal
+  * View all products added to the cart.
+  * Implement functionalities to increase/decrease quantity and to remove items from the cart for each products.
+  * A section that will show the total price including 15% vat for the overall purchase.
+  * **Proceed to checkout Button:** Allows the user to place an order.
         *   If the product is in stock, this button will be activated. If the product is out of stock, the button will be deactivated. Clicking this button will take the user to the checkout page.
 
   
@@ -117,9 +117,9 @@ This website will have the following core pages:
 
 **Note**
 
-*       *   Make sure to inform the users with the help of modal/toast after every delete, update and create
-    *   You must show changes on the UI after every actions
-    *   Make sure to make the interface visually appealing and user friendly
+  * Make sure to inform the users with the help of modal/toast after every delete, update and create
+  * You must show changes on the UI after every actions
+  * Make sure to make the interface visually appealing and user friendly
 
   
 
