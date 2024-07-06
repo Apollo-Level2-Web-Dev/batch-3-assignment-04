@@ -99,7 +99,7 @@ The backend should be built using Node.js, Express, and MongoDB. You can make a 
 #### 2\. Products Page :
 
 *   Display all products in card view. Each product card should show :
-    *       *   Image
+    - Image
         *   Title / Name
         *   Brand
         *   Available Quantity
@@ -167,11 +167,11 @@ The backend should be built using Node.js, Express, and MongoDB. You can make a 
 
 #### 7\. About Us Page
 
-*       *   Try to make the About Us page as attractive and creative as possible by using some basic animations and fancy gradients.
+- Try to make the About Us page as attractive and creative as possible by using some basic animations and fancy gradients.
 
 #### 8\. Contact Us Page
 
-*       *   Provide detailed contact information and encourage users to reach out with questions or feedback.
+- Provide detailed contact information and encourage users to reach out with questions or feedback.
     *   Try to make the page as attractive by using some basic animations.
 
 #### 9\. UI/UX
@@ -203,7 +203,7 @@ _Note: We highly recommend implementing these optional features, as they will ma
 
 Here are some websites to inspire ideas for your project. These references are only for idea generation and should not be copied directly:
 
-*       *   [https://mechanicalkeyboards.com/](https://mechanicalkeyboards.com/)
+- [https://mechanicalkeyboards.com/](https://mechanicalkeyboards.com/)
     *   [https://kbdfans.com/](https://kbdfans.com/)
     *   [https://keygem.com/](https://keygem.com/)
     *   [https://keebsforall.com/](https://keebsforall.com/)
