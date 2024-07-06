@@ -204,9 +204,9 @@ _Note: We highly recommend implementing these optional features, as they will ma
 Here are some websites to inspire ideas for your project. These references are only for idea generation and should not be copied directly:
 
 - [https://mechanicalkeyboards.com/](https://mechanicalkeyboards.com/)
-    *   [https://kbdfans.com/](https://kbdfans.com/)
-    *   [https://keygem.com/](https://keygem.com/)
-    *   [https://keebsforall.com/](https://keebsforall.com/)
-    *   [https://kono.store/](https://kono.store/)
+- [https://kbdfans.com/](https://kbdfans.com/)
+- [https://keygem.com/](https://keygem.com/)
+- [https://keebsforall.com/](https://keebsforall.com/)
+- [https://kono.store/](https://kono.store/)
 
 > Note: The references are only for idea generation. Do not copy the design from these sources.
