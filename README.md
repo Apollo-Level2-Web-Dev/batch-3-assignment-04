@@ -67,9 +67,9 @@ Welcome to Assignment 4, where you will have the opportunity to showcase your sk
 
 ### ⏰ **Deadline:**
 
-- 60 Marks: July __, 2024, 11.59 PM ⏳
-- 50 Marks: July __, 2024, 11.59 PM ⌛
-- After July __, 30 Marks Deadline 📅
+- 60 Marks: July 12, 2024, 11.59 PM ⏳
+- 50 Marks: July 13, 2024, 11.59 PM ⌛
+- After July 13, 30 Marks Deadline 📅
 
 ***Note: The deadlines are final and will not be extended.***
 
