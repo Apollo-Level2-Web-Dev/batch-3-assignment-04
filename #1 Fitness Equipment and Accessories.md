@@ -120,9 +120,9 @@ _Note: We highly recommend implementing these optional features, as they will ma
 
 Here are some websites to inspire ideas for your project. These references are only for idea generation and should not be copied directly:
 
-*       *   [https://shop.lifefitness.com/](https://shop.lifefitness.com/)
-    *   [https://mightyfitness.shop/](https://mightyfitness.shop/)
-    *   [https://www.fitnessavenue.ca/](https://www.fitnessavenue.ca/)
-    *   [https://www.northernfitness.ca/](https://www.northernfitness.ca/)
+- [https://shop.lifefitness.com/](https://shop.lifefitness.com/)
+- [https://mightyfitness.shop/](https://mightyfitness.shop/)
+- [https://www.fitnessavenue.ca/](https://www.fitnessavenue.ca/)
+- [https://www.northernfitness.ca/](https://www.northernfitness.ca/)
 
 > Note: The references are only for idea generation. Do not copy the design from these sources.
