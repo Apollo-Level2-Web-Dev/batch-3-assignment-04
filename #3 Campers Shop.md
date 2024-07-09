@@ -41,7 +41,7 @@ Develop a comprehensive e-commerce website with the following core pages and fun
 
 ### 3\. Product Details Page
 
-*   **Product Information:** Display product name, price, stock, quantity, description, category, ratings, and images.
+*   **Product Information:** Display product name, price, stock-quantity, description, category, ratings, and images.
 *   **Add to Cart Button:** Allow users to add the product to the cart.
     *   **Note:** Duplicate products cannot be added to the cart. If a product is already in the cart, only its quantity will increase, up to the available stock. If the quantity reaches the stock limit or the product is out of stock, the "Add to Cart" button for that product will be disabled.
 
