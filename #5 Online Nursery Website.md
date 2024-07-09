@@ -12,9 +12,17 @@ All routes on the website are accessible without authentication.
 
 ### 2\. Product and Category Management 🛠️
 
--   **CRUD Products and Categories**: Create, read, update, and delete (CRUD) products and categories.
--   **Management Routes**: Available on the frontend for easy management.
+*   **Product List Table:**
+    *   Display products in a table format. The table should include columns for the image, title, price, category, and actions.
+*   **Action Buttons:**
+    *   Include buttons for updating and deleting products.
+    *   Updating a product should open a form in a modal allowing the user to modify existing details.
+    *   Deleting a product should open a confirmation modal, asking the user for confirmation before removal.
+*   **Adding a Product:**
+    *   Include a button to create the new product.
+    *   Provide a form to add new products with fields for category, title, price, description, rating, image (you can use ImgBB for image upload or allow direct link entry), and brand.
 
+> All update, delete, and create actions should reflect in real-time, implementing an optimistic update of the UI.
 ### 3\. Product Browsing 🌿
 
 - **Filtering, Pagination, Sorting, and Searching**: Users can efficiently browse through our product offerings with advanced filtering, pagination for easy navigation across multiple pages of products, sorting options to arrange products by relevance, price, name, etc and robust searching capabilities to quickly find specific items.
