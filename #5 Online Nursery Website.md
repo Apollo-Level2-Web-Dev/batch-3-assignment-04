@@ -20,7 +20,7 @@ All routes on the website are accessible without authentication.
     *   Deleting a product should open a confirmation modal, asking the user for confirmation before removal.
 *   **Adding a Product:**
     *   Include a button to create the new product.
-    *   Provide a form to add new products with fields for category, title, price, description, rating, image (you can use ImgBB for image upload or allow direct link entry).
+    *   Provide a form to add new products with fields for category, title, price, quantity, description, rating, image (you can use ImgBB for image upload or allow direct link entry).
 
 > All update, delete, and create actions should reflect in real-time, implementing an optimistic update of the UI.
 ### 3\. Product Browsing 🌿
