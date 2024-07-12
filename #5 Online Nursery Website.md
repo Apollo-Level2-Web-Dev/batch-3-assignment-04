@@ -51,7 +51,7 @@ All routes on the website are accessible without authentication.
 - **Category Section**: Display different product categories.
 - **Product List**: Display products in card format with image, title, price, rating, and an "Add to Cart" button.
 - **Product Details**: Clicking on a product card navigates to the product details page with comprehensive information including image, title, description, price, rating, Category and an "Add to Cart" button.
-- **Image Gallery**: Showcases images of healthy individuals who have used your products, displayed in a mosaic view (For reference: [https://ps.w.org/photo-gallery/assets/screenshot-5.png?rev=2039606](https://ps.w.org/photo-gallery/assets/screenshot-5.png?rev=2039606) , [https://assets.hongkiat.com/uploads/free-responsive-image-gallery/8-bootstrap-gallery.jpeg](https://assets.hongkiat.com/uploads/free-responsive-image-gallery/8-bootstrap-gallery.jpeg)).
+- **Image Gallery**: Showcases images of the products, displayed in a mosaic view (For reference: [https://ps.w.org/photo-gallery/assets/screenshot-5.png?rev=2039606](https://ps.w.org/photo-gallery/assets/screenshot-5.png?rev=2039606) , [https://assets.hongkiat.com/uploads/free-responsive-image-gallery/8-bootstrap-gallery.jpeg](https://assets.hongkiat.com/uploads/free-responsive-image-gallery/8-bootstrap-gallery.jpeg)).
 - **Footer**: Additional links and information.
 
 ## 📑Page List
